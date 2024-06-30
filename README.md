@@ -1,2 +1,2 @@
-# TECH-TRIOS
+# PROJECT_AUTOMATED Trolly
 Automated Trolley System
