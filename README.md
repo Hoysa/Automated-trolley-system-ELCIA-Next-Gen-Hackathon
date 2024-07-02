@@ -1,2 +1,2 @@
-# PROJECT_AUTOMATED Trolly
+# PROJECT_AUTOMATED TROLLY
 Automated Trolley System
