@@ -17,7 +17,7 @@ The Automated Trolley System is a cutting-edge solution.This project leverages a
 - **Touchscreen Interface:** Allows users to input shopping lists, receive product recommendations, and access store maps, enhancing the overall user experience.
 
 Our Automated Trolley System exemplifies the practical application of automation in retail, aiming to create a more efficient and enjoyable shopping journey, by reducing the manual effort and time involved in shopping. This innovative solution not only improves customer satisfaction but also sets the stage for the future of retail automation.
-## Components required
+## Components Required
 
 
 
