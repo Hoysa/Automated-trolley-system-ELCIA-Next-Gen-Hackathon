@@ -30,7 +30,19 @@ Our Automated Trolley System exemplifies the practical application of automation
  |5.|Arduino AT Mega2560|1|Serves as the central processing unit|[Arduino AT Mega2560](https://tinyurl.com/mu68fcwr)|
   6.|Arduino Nano|1|Manage the RFID tag functionality|[Arduino Nano](https://tinyurl.com/yrphrapf)|
  7.|RC522 RFID Module|1|For automated billing|[RC522 RFID Module](https://tinyurl.com/2rj3vszm)|
- 8.|LCD Module|1|Display|[LCD Module](https://tinyurl.com/3yf4nrry)|
- 9.|USB UNO Cable|1|For programming and power supply|[USB UNO Cable](https://tinyurl.com/3t584cbr)|
+ 8.|LCD 16X2 Display|1|Display|[LCD Module](https://tinyurl.com/3yf4nrry)|
+ 9.|4 Wheel kit for DIY|1|Trolly prototype |[4 Wheel kit ](https://tinyurl.com/35vwrbvb)|
  10.|TMB 12O5 Buzzer 5v|1|For audible alerts and notifications|[TMB 12O5 Buzzer](https://tinyurl.com/26txtvyt)|
  11.|PCB GP|2|For connections|[ PCB GP](https://tinyurl.com/mrx79reh)|
+ 12.|Battery 3.7V|1|Power supply|[Battery](https://tinyurl.com/2hcbnp5s)| 
+ 13.|Micro Switch|1|Precise control and actuation|[Micro Switch](https://tinyurl.com/yc6ynx2h)|
+
+
+ 
+
+
+
+
+
+
+ 
