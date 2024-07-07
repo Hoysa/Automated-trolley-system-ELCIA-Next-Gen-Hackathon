@@ -38,7 +38,7 @@ Our Automated Trolley System exemplifies the practical application of automation
  13.|Micro Switch|1|Precise control and actuation|[Micro Switch](https://tinyurl.com/yc6ynx2h)||
 
 ## Pin Diagram
-### Billing system
+### Billing System
  ![Pin Diagram](https://github.com/Hoysa/TECH-TRIOS/blob/main/PIN%20Diagram%20of%20billing%20system.jpeg?raw=true)
 
 
