@@ -35,7 +35,8 @@ Our Automated Trolley System exemplifies the practical application of automation
  10.|TMB 12O5 Buzzer 5v|1|For audible alerts and notifications|[TMB 12O5 Buzzer](https://tinyurl.com/26txtvyt)|
  11.|PCB GP|2|For connections|[ PCB GP](https://tinyurl.com/mrx79reh)|
  12.|Battery 3.7V|1|Power supply|[Battery](https://tinyurl.com/2hcbnp5s)| 
- 13.|Micro Switch|1|Precise control and actuation|[Micro Switch](https://tinyurl.com/yc6ynx2h)|
+ 13.|Micro Switch|1|Precise control and actuation|[Micro Switch](https://tinyurl.com/yc6ynx2h)||
+
 ##Pin Diagram
 ### Billing system
  ![Pin Diagram](https://github.com/Hoysa/TECH-TRIOS/blob/main/PIN%20Diagram%20of%20billing%20system.jpeg?raw=true)
