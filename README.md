@@ -37,6 +37,10 @@ Our Automated Trolley System exemplifies the practical application of automation
  12.|Battery 3.7V|1|Power supply|[Battery](https://tinyurl.com/2hcbnp5s)| 
  13.|Micro Switch|1|Precise control and actuation|[Micro Switch](https://tinyurl.com/yc6ynx2h)|
 
+ ![Example Image]()
+
+
+
 
  
 
