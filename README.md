@@ -39,8 +39,6 @@ Our Automated Trolley System exemplifies the practical application of automation
 
 ## Pin Diagram
 ### Billing System
- ![Pin Diagram](https://github.com/Hoysa/TECH-TRIOS/blob/main/PIN%20Diagram%20of%20billing%20system.jpeg?raw=true)
-
 ![PIN Diagram of billing system](https://github.com/Hoysa/TECH-TRIOS/assets/174226186/76784bbb-e538-4634-86ca-efea0f72d1b8)
 
 
