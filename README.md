@@ -41,6 +41,16 @@ Our Automated Trolley System exemplifies the practical application of automation
 ### Billing System
 ![PIN Diagram of billing system](https://github.com/Hoysa/TECH-TRIOS/assets/174226186/76784bbb-e538-4634-86ca-efea0f72d1b8)
 
+## Video
+
+# Navigation System
+Uploading WhatsApp Video 2024-07-11 at 18.23.24.mp4…
+
+
+
+
+
+
 
 
  
