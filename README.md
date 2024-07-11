@@ -44,13 +44,9 @@ Our Automated Trolley System exemplifies the practical application of automation
 ![WhatsApp Image 2024-07-11 at 18 54 54](https://github.com/Hoysa/TECH-TRIOS/assets/174226186/2d28232d-f908-4f24-b6da-fe9d6176157b)
 ## Video
 
-# Navigation System
-Uploading WhatsApp Video 2024-07-11 at 18.23.24.mp4…
-git commit -m "Uploading WhatsApp Video 2024-07-11 at 18.23.24.mp4…"
+### Navigation System Demo
 
-
-
-
+https://github.com/Hoysa/TECH-TRIOS/assets/174226186/7b3265cd-45a8-4b56-b57e-9c33046bb76c
 
 
 
