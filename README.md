@@ -1,8 +1,8 @@
 
-# Automated Trolly System
+# Automated Trolly System:shopping_cart:
 *Automation for a Seamless Shopping Journey*
-![Logo]![_36d5be53-2566-4dc7-981b-281360509660](https://github.com/user-attachments/assets/60b5d75a-0876-4b3e-8de1-d08a5a3a5db2)
-()
+![Logo]
+
 
 
 ## Introduction
