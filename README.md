@@ -1,5 +1,5 @@
 
-# Automated Trolly System:shopping_cart:
+# Automated Trolly System :shopping_cart:
 *Automation for a Seamless Shopping Journey*
 ![Logo]
 
