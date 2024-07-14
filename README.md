@@ -1,6 +1,9 @@
 
 # Automated Trolly System
 *Automation for a Seamless Shopping Journey*
+![Logo]![_36d5be53-2566-4dc7-981b-281360509660](https://github.com/user-attachments/assets/60b5d75a-0876-4b3e-8de1-d08a5a3a5db2)
+()
+
 
 ## Introduction
 In today's fast-paced world, convenience and efficiency are paramount in enhancing the shopping experience. Our project, the Automated Trolley System, aims to revolutionize the way customers shop by integrating advanced technology to provide a seamless and efficient process. The core features of our system include automatic navigation and a smart billing system, designed to minimize the time customers spend in stores. By leveraging cutting-edge sensors and control algorithms, our trolleys can autonomously navigate the shopping environment, reducing the need for manual handling and enabling customers to focus more on selecting their desired products.
@@ -46,8 +49,6 @@ Our Automated Trolley System exemplifies the practical application of automation
 
 ### Navigation System Demo
 https://github.com/Hoysa/TECH-TRIOS/assets/174226186/3b0592ac-dd15-4704-ad1c-f11682832023
-
-![Logo](![Uploading _cd5042e5-bddb-4ec0-88e8-2eed5f0645dc.jpeg…]())
 
 
  
