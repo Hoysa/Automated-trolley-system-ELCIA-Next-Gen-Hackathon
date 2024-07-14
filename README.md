@@ -47,11 +47,11 @@ Our Automated Trolley System exemplifies the practical application of automation
 ### Navigation System Demo
 https://github.com/Hoysa/TECH-TRIOS/assets/174226186/3b0592ac-dd15-4704-ad1c-f11682832023
 
-![Logo](<img src="https://github.com/Hoysa/TECH-TRIOS/assets/174226186/76784bbb-e538-4634-86ca-efea0f72d1b8
-" alt="Logo" width="200"/>)
+![Logo](![Uploading _cd5042e5-bddb-4ec0-88e8-2eed5f0645dc.jpeg…]())
 
 
  
+
 
 
 
