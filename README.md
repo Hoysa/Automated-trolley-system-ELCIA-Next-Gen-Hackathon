@@ -1,8 +1,5 @@
 # Automated Trolly System 
-*Automation for a Seamless Shopping Journey*
-![Logo]
-
-
+*Automation for a Seamless Shopping Journey
 
 ## Introduction
 In today's fast-paced world, convenience and efficiency are paramount in enhancing the shopping experience. Our project, the Automated Trolley System, aims to revolutionize the way customers shop by integrating advanced technology to provide a seamless and efficient process. The core features of our system include automatic navigation and a smart billing system, designed to minimize the time customers spend in stores. By leveraging cutting-edge sensors and control algorithms, our trolleys can autonomously navigate the shopping environment, reducing the need for manual handling and enabling customers to focus more on selecting their desired products.
